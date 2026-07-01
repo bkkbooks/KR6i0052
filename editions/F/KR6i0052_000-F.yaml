@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0052/f/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說灌頂章句拔除過罪生死得度經
+  edition:
+    short: f
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/F/F03/F03n0088.xml
+    old_id: F03n0088
+hash: sha256:7be6ba3b308da5fd6adcba198b2525e855da28187a1ec3f49d6980da874db777

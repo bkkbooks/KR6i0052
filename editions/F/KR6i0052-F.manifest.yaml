@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0052/F/v1
+canonical_location: https://kanripo.org/bkk/KR6i0052/F/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說灌頂章句拔除過罪生死得度經
+  identifiers:
+    krp: KR6i0052
+    cbeta: F03n0088
+    cbeta_old_id: F03n0088
+    authorityid: CA0008067
+    json_key: F0088
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/F/F03/F03n0088.xml
+    old_id: F03n0088
+  edition:
+    short: F
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0052_000-F.yaml, hash: 'sha256:7be6ba3b308da5fd6adcba198b2525e855da28187a1ec3f49d6980da874db777'}
+  - {seq: 1, filename: KR6i0052_001-F.yaml, hash: 'sha256:7aafca7485ac7cb03ae6b3417349cd50e19e74259c4037a82c6a2b6f9bbb0e81'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0052_000-F.markers.yaml, hash: 'sha256:ba8e811e99e06bbc7acbeac525a6e948cdfb1710834a7e64ac47bb3b01561b5a'}
+  - {seq: 1, role: markers, filename: assets/KR6i0052_001-F.markers.yaml, hash: 'sha256:3e56c9982a852f33fbf4c928a25fe0662136a2b0a191ab2abf54e8d65a077954'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0052_F_001-juan-start
+    span:
+    - body
+    - 0
+    - 4891
+  label: 佛說灌頂章句󷦽除過罪生死得度經
+  type: juan
+  level: 1
+hash: sha256:a9ee8b3b0039f05976e91ebd9df120d3db44d550d165e862791eb54a09d57e77
