@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0052_000.yaml, hash: 'sha256:7be6ba3b308da5fd6adcba198b2525e855da28187a1ec3f49d6980da874db777'}
-  - {seq: 1, filename: KR6i0052_001.yaml, hash: 'sha256:b0a12f2f200adae61e5ff03249fd8fee830ac2284a540e368bdf9356590570fd'}
+  - {seq: 1, filename: KR6i0052_001.yaml, hash: 'sha256:7aafca7485ac7cb03ae6b3417349cd50e19e74259c4037a82c6a2b6f9bbb0e81'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0052_001.markers.yaml, hash: 'sha256:ae2ff716f532d757e33c277f5cf65394d5be79c7dca742378a941b19bf78e18f'}
+  - {seq: 0, role: markers, filename: assets/KR6i0052_000.markers.yaml, hash: 'sha256:dbf523642318a48a8c212fe003cfb2a3a9fe8b669b8033494a3a0176a5a10cfa'}
+  - {seq: 1, role: markers, filename: assets/KR6i0052_001.markers.yaml, hash: 'sha256:096604e41e41f32913ca55610edbf89e7ea96084af2c2180afab854581f7bbb5'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 佛說灌頂章句󷦽除過罪生死得度經
   type: juan
   level: 1
-hash: sha256:a22357e8fa4bb4c3acf056f6bb3c426e400710115fe6e25943944068b5c06ee3
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:e5a96611ee6a2346fe59d96f22778ef2ed2230282c731724d46961b9388db2d2
