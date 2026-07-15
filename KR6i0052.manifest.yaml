@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0052/v1
 canonical_location: https://kanripo.org/bkk/KR6i0052/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說灌頂章句拔除過罪生死得度經
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0052_000.yaml, hash: 'sha256:7be6ba3b308da5fd6adcba198b2525e855da28187a1ec3f49d6980da874db777'}
-  - {seq: 1, filename: KR6i0052_001.yaml, hash: 'sha256:7aafca7485ac7cb03ae6b3417349cd50e19e74259c4037a82c6a2b6f9bbb0e81'}
+  - {seq: 1, filename: KR6i0052_001.yaml, hash: 'sha256:0e2b4ea087937f3b102d23ce8c03a1896628cad6afa0ef6e1d1d22a2232a2e65'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0052_000.markers.yaml, hash: 'sha256:dbf523642318a48a8c212fe003cfb2a3a9fe8b669b8033494a3a0176a5a10cfa'}
-  - {seq: 1, role: markers, filename: assets/KR6i0052_001.markers.yaml, hash: 'sha256:096604e41e41f32913ca55610edbf89e7ea96084af2c2180afab854581f7bbb5'}
+  - {seq: 1, role: markers, filename: assets/KR6i0052_001.markers.yaml, hash: 'sha256:5c7556a0c21ae37c907cbcdc1938f510322f5cc9a0c35a1bdaceae855821f9cc'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 佛說灌頂章句󷦽除過罪生死得度經
   type: juan
   level: 1
-hash: sha256:e5a96611ee6a2346fe59d96f22778ef2ed2230282c731724d46961b9388db2d2
+hash: sha256:dcd58c1ad4d04920781df695a7709a115ab92f5eb51660f956207175df2de4d5
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
